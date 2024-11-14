@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /tmp/tmp.6SHaoOpC0j -B /tmp/tmp.6SHaoOpC0j/cmake-build-debug-
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /tmp/tmp.6SHaoOpC0j/cmake-build-debug-
